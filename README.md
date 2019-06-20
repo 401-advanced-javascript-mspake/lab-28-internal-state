@@ -8,15 +8,12 @@
 ### Links and Resources  
 * [submission PR](https://github.com/401-advanced-javascript-mspake/lab-28-internal-state/pull/1)  
   
-<!-- ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples -->
+### Modules  
+#### `app.js, form.js`  
+##### Exported Values and Methods  
+  
+###### `app -> React Component`  
+###### `form -> React Component`  
   
 #### Running the app  
 * `npm start`  

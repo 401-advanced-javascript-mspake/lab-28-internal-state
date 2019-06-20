@@ -27,7 +27,7 @@ class Form extends React.Component {
       <div>Name: { this.state.name } </div>
       <div># of Updates: {this.state.count } </div>
         <input type="text" onChange={this.handleChange}></input>
-        <button onClick={ this.handleClick }>Submit</button>
+        <button className="submit" onClick={ this.handleClick }>Submit</button>
       </form>
     );
   }

@@ -7,6 +7,7 @@
   
 ### Links and Resources  
 * [submission PR](https://github.com/401-advanced-javascript-mspake/lab-28-internal-state/pull/1)  
+* [Travis](https://www.travis-ci.com/401-advanced-javascript-mspake/lab-28-internal-state)  
   
 ### Modules  
 #### `app.js, form.js`  
